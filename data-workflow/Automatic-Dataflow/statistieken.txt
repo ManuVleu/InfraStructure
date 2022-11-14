@@ -1,0 +1,4 @@
+Langste maximale wachttijd ooit: Oki Doki 220.0 min
+Korste maximale wachttijd ooit: Speedy Bob 50.0 min
+Kortste gemiddelde wachttijd: El Rio 4.870761670761671 min
+Langste gemiddelde wachttijd: Typhoon 16.79262899262899 min

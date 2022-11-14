@@ -1,0 +1,86 @@
+[
+  {
+    "id": 11020,
+    "name": "Bob Express",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:55:19.000Z"
+  },
+  {
+    "id": 11023,
+    "name": "El Rio",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:55:19.000Z"
+  },
+  {
+    "id": 11021,
+    "name": "Fury",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:54:16.000Z"
+  },
+  {
+    "id": 11017,
+    "name": "Indiana River",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:54:16.000Z"
+  },
+  {
+    "id": 11015,
+    "name": "Mount Mara VR",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:54:16.000Z"
+  },
+  {
+    "id": 11016,
+    "name": "Naga Bay",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:54:16.000Z"
+  },
+  {
+    "id": 11018,
+    "name": "Oki Doki",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:54:16.000Z"
+  },
+  {
+    "id": 11013,
+    "name": "Revolution",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:54:16.000Z"
+  },
+  {
+    "id": 11012,
+    "name": "Speedy Bob",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:54:16.000Z"
+  },
+  {
+    "id": 11014,
+    "name": "The Dreamcatcher",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:53:11.000Z"
+  },
+  {
+    "id": 11022,
+    "name": "Typhoon",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:49:53.000Z"
+  },
+  {
+    "id": 11019,
+    "name": "Wildwaterbaan",
+    "is_open": false,
+    "wait_time": 0,
+    "last_updated": "2022-11-01T17:38:57.000Z"
+  }
+]
