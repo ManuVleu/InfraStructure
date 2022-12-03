@@ -1,17 +1,13 @@
-# <p align="center">**Rapport Data Analyse Infrastructure Automation**<p><br/>Aangemaakt op 14/11/2022 20:33
+# <p align="center">**Rapport Data Analyse Infrastructure Automation**<p><br/>Aangemaakt op 30/11/2022 14:53
 ## **Inleiding**
 
-Etincidunt aliquam dolorem dolor sit quaerat amet labore. Ut ipsum porro porro amet numquam quaerat. Dolore magnam porro velit. Adipisci dolor neque modi dolor porro. Etincidunt etincidunt ipsum ut ipsum consectetur modi est. Quiquia est voluptatem porro. Voluptatem dolor voluptatem adipisci magnam adipisci. Eius quiquia adipisci velit etincidunt est modi labore. Dolor numquam quiquia est.
+Modi ut porro voluptatem eius ut. Dolorem neque voluptatem amet modi quaerat. Etincidunt quisquam dolorem magnam ut etincidunt labore labore. Non quisquam dolore adipisci est sit. Modi ut aliquam quiquia.
 
-Etincidunt quisquam dolor eius quiquia. Est neque dolore dolorem. Quisquam quiquia velit numquam ut. Consectetur velit sed est quiquia magnam ut modi. Neque ipsum amet sed neque porro labore. Sit quaerat quiquia neque velit. Porro quiquia porro ipsum eius dolor consectetur neque. Labore velit porro amet. Dolorem velit etincidunt velit sed adipisci dolorem sed.
+Consectetur ut sed labore quisquam. Quiquia consectetur quiquia non ut. Quiquia sit dolor ipsum. Ut velit magnam adipisci quisquam. Sed numquam magnam quiquia dolore velit. Voluptatem dolor non consectetur sit dolore. Non etincidunt neque quiquia. Dolor eius consectetur ipsum. Consectetur numquam dolore ipsum.
 
-Porro dolorem dolor magnam tempora non. Adipisci porro quisquam amet numquam non adipisci etincidunt. Eius dolor voluptatem ipsum adipisci sed. Quaerat est magnam adipisci. Amet sit porro aliquam. Dolor neque dolorem consectetur eius. Sit etincidunt consectetur labore dolore est non. Aliquam consectetur eius sed tempora labore. Aliquam tempora velit est modi ipsum quaerat.
+Labore non ut quiquia consectetur aliquam quisquam. Dolor non dolore magnam tempora modi consectetur. Consectetur est aliquam velit quisquam porro dolor est. Adipisci sit porro voluptatem ut. Neque dolor tempora consectetur ut neque neque sed. Consectetur modi quaerat etincidunt.
 
-Quiquia numquam dolore consectetur dolorem. Non sit dolorem dolore eius. Dolor numquam sed modi voluptatem modi aliquam aliquam. Velit sed sed etincidunt amet dolor ipsum. Sit numquam labore neque sit. Dolor quiquia etincidunt sed tempora. Amet voluptatem aliquam aliquam voluptatem quisquam quaerat. Etincidunt neque non dolore neque.
-
-Dolorem quaerat magnam non neque. Magnam numquam porro dolor. Numquam sed ipsum velit. Adipisci voluptatem sed dolor velit dolore voluptatem aliquam. Neque neque quaerat quaerat dolorem aliquam. Eius porro quaerat amet neque consectetur dolor quaerat.
-
-Porro quaerat voluptatem etincidunt dolore quisquam porro amet. Quisquam voluptatem porro labore magnam. Adipisci sed eius consectetur adipisci dolore quisquam. Velit ut voluptatem quiquia numquam quiquia non dolor. Ipsum adipisci voluptatem labore sed eius adipisci. Ipsum amet quiquia eius dolor tempora. Tempora etincidunt sit modi voluptatem tempora numquam. Aliquam dolor ut neque quisquam voluptatem est. Dolorem modi porro dolorem neque sed numquam magnam. Consectetur magnam dolor ipsum quaerat.
+Etincidunt eius neque ut velit tempora. Adipisci eius porro dolor. Dolore porro porro adipisci sed. Tempora est quaerat ut. Ipsum magnam est ipsum dolor aliquam. Voluptatem est magnam neque aliquam. Neque sed velit porro dolor dolorem dolore quisquam. Tempora dolore magnam modi. Ut neque voluptatem quiquia neque neque. Est modi quaerat voluptatem quiquia ipsum.
 
 ## **Basisstatistieken**
 
@@ -27,60 +23,58 @@ Langste gemiddelde wachttijd: Typhoon 16.79262899262899 min
 ## **Graphieken**
 
 ### *De wachttijden van elke attractie doorheen de tijd*
-#### Indiana_River.png
-![Indiana_River.png](./graphs/Indiana_River.png)
 #### Bob_Express.png
 ![Bob_Express.png](./graphs/Bob_Express.png)
-#### Revolution.png
-![Revolution.png](./graphs/Revolution.png)
-#### Fury.png
-![Fury.png](./graphs/Fury.png)
-#### Wildwaterbaan.png
-![Wildwaterbaan.png](./graphs/Wildwaterbaan.png)
-#### Typhoon.png
-![Typhoon.png](./graphs/Typhoon.png)
-#### Speedy_Bob.png
-![Speedy_Bob.png](./graphs/Speedy_Bob.png)
-#### Naga_Bay.png
-![Naga_Bay.png](./graphs/Naga_Bay.png)
-#### The_Dreamcatcher.png
-![The_Dreamcatcher.png](./graphs/The_Dreamcatcher.png)
-#### Oki_Doki.png
-![Oki_Doki.png](./graphs/Oki_Doki.png)
 #### El_Rio.png
 ![El_Rio.png](./graphs/El_Rio.png)
+#### Fury.png
+![Fury.png](./graphs/Fury.png)
+#### Indiana_River.png
+![Indiana_River.png](./graphs/Indiana_River.png)
+#### Naga_Bay.png
+![Naga_Bay.png](./graphs/Naga_Bay.png)
+#### Oki_Doki.png
+![Oki_Doki.png](./graphs/Oki_Doki.png)
+#### Revolution.png
+![Revolution.png](./graphs/Revolution.png)
+#### Speedy_Bob.png
+![Speedy_Bob.png](./graphs/Speedy_Bob.png)
+#### The_Dreamcatcher.png
+![The_Dreamcatcher.png](./graphs/The_Dreamcatcher.png)
+#### Typhoon.png
+![Typhoon.png](./graphs/Typhoon.png)
+#### Wildwaterbaan.png
+![Wildwaterbaan.png](./graphs/Wildwaterbaan.png)
 ### Aantal keer elke wachttijd voorkomt per attractie
-#### El_Rio_wt_count.png
-![El_Rio_wt_count.png](./graphs/El_Rio_wt_count.png)
-#### The_Dreamcatcher_wt_count.png
-![The_Dreamcatcher_wt_count.png](./graphs/The_Dreamcatcher_wt_count.png)
-#### Oki_Doki_wt_count.png
-![Oki_Doki_wt_count.png](./graphs/Oki_Doki_wt_count.png)
-#### Indiana_River_wt_count.png
-![Indiana_River_wt_count.png](./graphs/Indiana_River_wt_count.png)
-#### Speedy_Bob_wt_count.png
-![Speedy_Bob_wt_count.png](./graphs/Speedy_Bob_wt_count.png)
 #### Bob_Express_wt_count.png
 ![Bob_Express_wt_count.png](./graphs/Bob_Express_wt_count.png)
-#### Typhoon_wt_count.png
-![Typhoon_wt_count.png](./graphs/Typhoon_wt_count.png)
-#### Revolution_wt_count.png
-![Revolution_wt_count.png](./graphs/Revolution_wt_count.png)
+#### El_Rio_wt_count.png
+![El_Rio_wt_count.png](./graphs/El_Rio_wt_count.png)
 #### Fury_wt_count.png
 ![Fury_wt_count.png](./graphs/Fury_wt_count.png)
+#### Indiana_River_wt_count.png
+![Indiana_River_wt_count.png](./graphs/Indiana_River_wt_count.png)
 #### Naga_Bay_wt_count.png
 ![Naga_Bay_wt_count.png](./graphs/Naga_Bay_wt_count.png)
+#### Oki_Doki_wt_count.png
+![Oki_Doki_wt_count.png](./graphs/Oki_Doki_wt_count.png)
+#### Revolution_wt_count.png
+![Revolution_wt_count.png](./graphs/Revolution_wt_count.png)
+#### Speedy_Bob_wt_count.png
+![Speedy_Bob_wt_count.png](./graphs/Speedy_Bob_wt_count.png)
+#### The_Dreamcatcher_wt_count.png
+![The_Dreamcatcher_wt_count.png](./graphs/The_Dreamcatcher_wt_count.png)
+#### Typhoon_wt_count.png
+![Typhoon_wt_count.png](./graphs/Typhoon_wt_count.png)
 #### Wildwaterbaan_wt_count.png
 ![Wildwaterbaan_wt_count.png](./graphs/Wildwaterbaan_wt_count.png)
 ## **Conclusie**
-Amet numquam modi tempora voluptatem. Modi quaerat dolorem quisquam adipisci porro quiquia quaerat. Ut tempora aliquam eius magnam. Velit amet non quiquia voluptatem. Neque ipsum est ipsum magnam quaerat dolorem. Dolor dolore aliquam labore magnam. Numquam quisquam numquam tempora numquam aliquam neque voluptatem. Aliquam eius ipsum sit eius quisquam. Modi non sit voluptatem.
+Dolor dolorem quaerat dolore. Dolorem neque quisquam labore. Quaerat amet sit sed. Labore ipsum dolor eius modi consectetur. Quaerat porro numquam consectetur aliquam quisquam dolor. Quaerat labore porro modi quisquam. Eius dolorem adipisci porro quisquam eius non.
 
-Etincidunt tempora eius non porro tempora. Eius ipsum non etincidunt ut magnam dolorem labore. Non quiquia etincidunt labore modi modi quiquia dolorem. Est ipsum consectetur quaerat. Non sit dolor porro. Numquam ipsum porro adipisci.
+Eius est modi etincidunt quisquam eius. Quiquia adipisci quaerat numquam etincidunt est sit. Dolore voluptatem amet magnam. Modi voluptatem eius porro non consectetur neque. Dolorem tempora aliquam aliquam magnam ut dolorem voluptatem. Dolore adipisci neque sit dolore tempora labore. Numquam labore velit neque voluptatem. Velit numquam est porro non quisquam tempora quiquia. Sit dolor eius adipisci magnam. Adipisci porro tempora neque quisquam sed.
 
-Dolore modi dolore modi sed tempora. Voluptatem dolor ipsum etincidunt velit eius ut modi. Tempora etincidunt dolor quiquia dolorem etincidunt non. Non ipsum voluptatem porro non. Modi tempora aliquam neque tempora quaerat consectetur labore. Sed modi eius numquam modi.
+Quaerat ipsum ut aliquam aliquam. Quaerat sit velit ut. Etincidunt ut tempora quaerat dolorem. Non non neque quiquia est. Ipsum porro voluptatem quisquam est eius.
 
-Neque numquam amet ipsum etincidunt. Quaerat quiquia ipsum quiquia etincidunt ipsum etincidunt modi. Ipsum magnam amet quaerat dolorem ipsum aliquam. Labore aliquam porro porro consectetur porro ut modi. Etincidunt amet neque voluptatem. Amet adipisci labore amet.
+Sed ut numquam non velit. Eius ut dolorem quaerat modi. Voluptatem quaerat quiquia etincidunt labore. Magnam dolor dolorem labore. Dolor tempora etincidunt ut. Amet amet dolor est. Non dolore est voluptatem. Ipsum aliquam aliquam dolor. Numquam porro consectetur eius labore velit neque voluptatem. Sed quaerat ut quisquam dolor quisquam voluptatem.
 
-Dolorem etincidunt neque dolore. Ut ut sit modi est. Labore non modi magnam quiquia modi porro sed. Numquam quiquia dolorem sit numquam voluptatem sit aliquam. Porro neque modi quiquia dolorem. Est ut voluptatem quaerat quaerat voluptatem numquam.
-
-Adipisci modi quaerat magnam dolore numquam. Modi tempora dolorem dolor consectetur sed. Porro adipisci ipsum modi velit. Modi voluptatem tempora ipsum numquam velit sit dolor. Sed dolore quiquia tempora eius quiquia. Adipisci non etincidunt dolor est labore dolore numquam. Ut non dolorem voluptatem quiquia.
+Labore consectetur labore voluptatem porro sed labore. Dolore quaerat dolor voluptatem. Velit porro porro sed. Neque tempora quaerat dolor est. Eius velit dolore tempora aliquam eius magnam. Etincidunt dolorem sed dolore quiquia etincidunt. Labore tempora quaerat eius ut numquam. Ut tempora dolore quisquam non. Magnam porro est ipsum voluptatem quisquam.

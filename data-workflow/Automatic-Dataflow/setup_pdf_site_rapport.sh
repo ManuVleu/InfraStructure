@@ -7,4 +7,4 @@ mkdocs new rapport_site
 cp rapport.md ./rapport_site/docs/index.md
 cp -R graphs ./rapport_site/docs/graphs
 
-cd ./rapport_site; mkdocs serve
+cd ./rapport_site || exit; mkdocs serve
