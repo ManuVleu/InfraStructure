@@ -1,5 +1,5 @@
 # Automatic Dataflow opdracht
-We verzamelen data van een publieke API en gieten die in de juiste vorm om geanalyseerd te worden en een rapport erover te schrijven.
+We verzamelen data van een publieke API en gieten die in de juiste vorm om geanalyseerd te worden en om er een rapport over te genereren.
 
 ## Data
 
@@ -29,7 +29,7 @@ Ik heb dit script laten lopen van **22/10/2022 14:00:01** tot **06/11/2022 18:00
 2. Dan zullen de nodige packages via `pip` en `apt-get` geïnstalleerd worden
 3. Hierna zal het de analyse tonen over de data via het [*data_analyse.py*](./Automatic-Dataflow/data_analyse.py) script
 4. Uiteindelijk zal het een rapport genereren over de data met het [*generate_rapport.py*](./Automatic-Dataflow/generate_rapport.py) script
-5. Als laatste wordt het rapport omgezet naar [*rapport.pdf*](./Automatic-Dataflow/rapport.pdf) maar dit werkt niet perfect en dan toont het het rapport op http://localhost:8000 met het [*setup_pdf_site_rapport.sh*](./Automatic-Dataflow/setup_pdf_site_rapport.sh)
+5. Als laatste wordt het rapport omgezet naar [*rapport.pdf*](./Automatic-Dataflow/rapport.pdf) en dan toont het het rapport op http://localhost:8000 met het [*setup_pdf_site_rapport.sh*](./Automatic-Dataflow/setup_pdf_site_rapport.sh)
 
 ---
 

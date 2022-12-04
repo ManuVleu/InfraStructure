@@ -1,13 +1,11 @@
-# <p align="center">**Rapport Data Analyse Infrastructure Automation**<p><br/>Aangemaakt op 30/11/2022 14:53
+# <p align="center">**Rapport Data Analyse Infrastructure Automation**<p><br/>Aangemaakt op 4/12/2022 20:36
 ## **Inleiding**
 
-Modi ut porro voluptatem eius ut. Dolorem neque voluptatem amet modi quaerat. Etincidunt quisquam dolorem magnam ut etincidunt labore labore. Non quisquam dolore adipisci est sit. Modi ut aliquam quiquia.
+Porro quisquam non quisquam etincidunt. Sit velit quisquam dolor neque. Quiquia modi voluptatem neque quaerat. Sed ut etincidunt sed aliquam est quisquam quaerat. Modi neque consectetur neque non quaerat dolorem etincidunt. Dolorem quaerat sed eius dolor. Dolor etincidunt dolore velit quisquam. Ipsum non est labore aliquam porro porro. Consectetur sed dolorem voluptatem dolore magnam. Neque labore numquam quiquia non.
 
-Consectetur ut sed labore quisquam. Quiquia consectetur quiquia non ut. Quiquia sit dolor ipsum. Ut velit magnam adipisci quisquam. Sed numquam magnam quiquia dolore velit. Voluptatem dolor non consectetur sit dolore. Non etincidunt neque quiquia. Dolor eius consectetur ipsum. Consectetur numquam dolore ipsum.
+Labore consectetur ipsum quisquam labore. Magnam ipsum quiquia amet velit labore consectetur quiquia. Aliquam magnam modi quaerat etincidunt dolorem. Modi quiquia labore etincidunt quisquam velit. Etincidunt numquam velit etincidunt ipsum.
 
-Labore non ut quiquia consectetur aliquam quisquam. Dolor non dolore magnam tempora modi consectetur. Consectetur est aliquam velit quisquam porro dolor est. Adipisci sit porro voluptatem ut. Neque dolor tempora consectetur ut neque neque sed. Consectetur modi quaerat etincidunt.
-
-Etincidunt eius neque ut velit tempora. Adipisci eius porro dolor. Dolore porro porro adipisci sed. Tempora est quaerat ut. Ipsum magnam est ipsum dolor aliquam. Voluptatem est magnam neque aliquam. Neque sed velit porro dolor dolorem dolore quisquam. Tempora dolore magnam modi. Ut neque voluptatem quiquia neque neque. Est modi quaerat voluptatem quiquia ipsum.
+Ipsum aliquam aliquam adipisci numquam porro neque quaerat. Dolore dolor etincidunt voluptatem adipisci. Consectetur ipsum quisquam labore ipsum dolorem. Non amet quiquia quiquia. Porro aliquam consectetur velit quisquam. Quaerat dolor velit etincidunt magnam tempora quiquia dolor.
 
 ## **Basisstatistieken**
 
@@ -69,12 +67,12 @@ Langste gemiddelde wachttijd: Typhoon 16.79262899262899 min
 #### Wildwaterbaan_wt_count.png
 ![Wildwaterbaan_wt_count.png](./graphs/Wildwaterbaan_wt_count.png)
 ## **Conclusie**
-Dolor dolorem quaerat dolore. Dolorem neque quisquam labore. Quaerat amet sit sed. Labore ipsum dolor eius modi consectetur. Quaerat porro numquam consectetur aliquam quisquam dolor. Quaerat labore porro modi quisquam. Eius dolorem adipisci porro quisquam eius non.
+Ipsum sed ut voluptatem magnam. Consectetur adipisci sit neque numquam. Labore non modi sed consectetur dolor. Modi dolor eius dolorem. Amet adipisci neque velit non dolor labore.
 
-Eius est modi etincidunt quisquam eius. Quiquia adipisci quaerat numquam etincidunt est sit. Dolore voluptatem amet magnam. Modi voluptatem eius porro non consectetur neque. Dolorem tempora aliquam aliquam magnam ut dolorem voluptatem. Dolore adipisci neque sit dolore tempora labore. Numquam labore velit neque voluptatem. Velit numquam est porro non quisquam tempora quiquia. Sit dolor eius adipisci magnam. Adipisci porro tempora neque quisquam sed.
+Quiquia porro eius quaerat tempora est numquam etincidunt. Amet velit quisquam quisquam. Aliquam velit dolorem numquam sit. Adipisci eius voluptatem tempora velit consectetur tempora. Ipsum est quaerat dolore sed.
 
-Quaerat ipsum ut aliquam aliquam. Quaerat sit velit ut. Etincidunt ut tempora quaerat dolorem. Non non neque quiquia est. Ipsum porro voluptatem quisquam est eius.
+Sed consectetur adipisci magnam. Ipsum velit neque dolore quisquam numquam adipisci sit. Non dolore ut non porro. Eius eius labore quisquam non. Magnam sed sed sit quisquam porro. Sed sit aliquam dolore aliquam consectetur aliquam numquam. Neque eius tempora quisquam numquam. Modi porro ut magnam est dolore. Tempora velit aliquam adipisci amet quisquam. Neque numquam etincidunt sit voluptatem numquam quaerat.
 
-Sed ut numquam non velit. Eius ut dolorem quaerat modi. Voluptatem quaerat quiquia etincidunt labore. Magnam dolor dolorem labore. Dolor tempora etincidunt ut. Amet amet dolor est. Non dolore est voluptatem. Ipsum aliquam aliquam dolor. Numquam porro consectetur eius labore velit neque voluptatem. Sed quaerat ut quisquam dolor quisquam voluptatem.
+Non porro sed non dolorem dolorem. Neque adipisci magnam ipsum porro. Sed dolorem non est eius amet consectetur magnam. Modi amet est eius ipsum aliquam magnam quisquam. Numquam aliquam sit quisquam dolorem velit. Quisquam etincidunt quaerat velit labore etincidunt. Quisquam tempora etincidunt dolor sed aliquam amet. Aliquam est ipsum dolor dolore.
 
-Labore consectetur labore voluptatem porro sed labore. Dolore quaerat dolor voluptatem. Velit porro porro sed. Neque tempora quaerat dolor est. Eius velit dolore tempora aliquam eius magnam. Etincidunt dolorem sed dolore quiquia etincidunt. Labore tempora quaerat eius ut numquam. Ut tempora dolore quisquam non. Magnam porro est ipsum voluptatem quisquam.
+Aliquam aliquam velit quiquia dolor velit. Modi eius voluptatem voluptatem. Adipisci dolor velit dolor labore. Labore quiquia dolorem quisquam. Etincidunt voluptatem neque neque. Etincidunt non ut etincidunt labore quaerat quiquia. Sit quaerat magnam quiquia consectetur. Ipsum eius velit dolore quaerat.
