@@ -21,3 +21,6 @@ Ik heb dit script laten lopen van **22/10/2022 14:00:01** tot **06/11/2022 18:00
 
 ## Scripts
 
+### *get-data.sh*
+
+Dit script scrapt de JSON-data van de API en slaat het op in de [*data*](./Automatic-Dataflow/data) folder. De JSON-file heeft als naam het tijdstip dat het gescrapt is. Er wordt ook een logfile aangemaakt voor errorberichten.
